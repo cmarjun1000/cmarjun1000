@@ -1,5 +1,5 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)
-<h1 align="center">Hi 👋, I'm C M Arjun</h1>
+<h1 align="center">Hi, I'm C M Arjun</h1>
 <h3 align="center">Full Stack Developer | Microservices | ReactJS | NodeJS | ExpressJS | PostgreSQL | MongoDB | GraphQL | Kafka | AWS | React-Native | Jest | Selenium</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **cmarjun333@gmail.com**
 
-- 📄 Know about my experiences [https://arjun-resume.netlify.app/](https://arjun-resume.netlify.app/)
+- 📄 Know about my experiences [My Resume](https://arjun-resume.netlify.app/)
 
 - ⚡ Fun fact **I game, workout, play guitar occasionally**
 
